@@ -520,7 +520,7 @@ const experience2 = [
             <span className="text-gray-900 font-semibold text-xl">{content.profile.Title}</span>
           </div>
           <p className="text-gray-500">
-            © 2025. All rights reserved by {content.profile.copyrights}.
+            ©2025. All rights reserved by {content.profile.copyrights}.
           </p>
         </footer>
       </div>
