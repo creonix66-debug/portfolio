@@ -445,7 +445,7 @@ const experience2 = [
                   <h2 className="text-3xl font-bold text-gray-900 mb-6">My Contact</h2>
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Get In Touch</h3>
                   <p className="text-gray-600 mb-8">
-                    Let's discuss your project and see how we can work together to create something amazing.
+                      Let&apos;s discuss your project and see how we can work together to create something amazing.
                   </p>
 
                   <form onSubmit={handleSubmit} className="space-y-6">
